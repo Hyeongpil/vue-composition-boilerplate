@@ -1,5 +1,4 @@
-# wecare-cafe
-
+# vue-composition-boilerplate
 ## Project setup
 ```
 yarn install
